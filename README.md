@@ -1,4 +1,4 @@
-![banner](./Docs/banner.png)
+![banner](./Docs/front.png)
 
 # PetClicks
 
