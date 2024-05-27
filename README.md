@@ -1,12 +1,5 @@
 ![banner](./docs/images/6036440432b9b3484d2fc853_Hero-Aman-01.png)
 
-## Team
-
-- E/19/133, A. Harishanth, [email](mailto:e19133@eng.pdn.ac.lk)
-- E/19/137, T. Hayanan, [email](mailto:e19137@eng.pdn.ac.lk)
-- E/19/247, S. M. Musthak [emai](mailto:e19247@eng.pdn.ac.lk)
-- E/19/371, M Shantosh [email](mailto:e19371@eng.pdn.ac.lk)
-- e/19/455, Yashan W. V., [email](mailto:e19455@eng.pdn.ac.lk)
 # PetClicks
 
 Let us introduce PetClicks: Where Pets and People Connect Like Never Before
@@ -54,8 +47,6 @@ We pride ourselves on staying connected with our customers. Our team is dedicate
 PetClicks is more than just an app; it's a movement towards a more connected, compassionate, and informed pet-loving community. By joining PetClicks, you're not just becoming a user; you're becoming part of a family that values the joy and well-being of our furry, feathered, and scaled friends.
 
 ### We invite you to explore PetClicks, share your moments, and connect with others who share your passion for animals. Together, we can create a space where pets and their owners thrive, enjoy, and discover new horizons every day
-
-![banner](./docs/images/6036440432b9b3484d2fc853_Hero-Aman-01.png)
 
 ## About Us
 
