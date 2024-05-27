@@ -1,4 +1,4 @@
-![banner](./docs/images/6036440432b9b3484d2fc853_Hero-Aman-01.png)
+![banner](./Docs/banner.png)
 
 # PetClicks
 
@@ -50,8 +50,12 @@ PetClicks is more than just an app; it's a movement towards a more connected, co
 
 ## About Us
 
-- Yashan W. V., [email](mailto:yashanwagaarachchi@gmail.com)
-- Angammana A. N. K., [email](mailto:niseniangammana@gmail.com) 
+- Yashan W. V. [email](mailto:yashanwagaarachchi@gmail.com)
+- Angammana A. N. K. [email](mailto:niseniangammana@gmail.com)
+
+## Details
+- Proposal Presentation [link](https://drive.google.com/drive/folders/15J__KThtFVQb0VNnqANARPYy8D3SGGVZ)
+- Introduction video [link](https://drive.google.com/drive/folders/15J__KThtFVQb0VNnqANARPYy8D3SGGVZ)
 
 
 
