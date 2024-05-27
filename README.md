@@ -1,4 +1,4 @@
-![banner](./docs/images/6036440432b9b3484d2fc853_Hero-Aman-01.png)
+![banner](./docs/banner.png)
 
 # PetClicks
 
